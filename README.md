@@ -42,10 +42,14 @@ yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 2)   Web sitesine giris yapın
  ![Uploading {2DE183F8-7730-4AAE-A8C0-E9F4F5239D22}.png…]()
 
-3)   Rezervasyon ekranını acip, eklentiden otomatik yer alma komutunu calistirin. ![image](https://github.com/user-attachments/assets/1bb9ffc7-a06d-4324-914d-906ed8a7fa20)
+3)   Rezervasyon ekranını acip, eklentiden otomatik yer alma komutunu calistirin.
+  ------------------------------------------------------------------------------------------------------
+        ![image](https://github.com/user-attachments/assets/1bb9ffc7-a06d-4324-914d-906ed8a7fa20)
 
 
-4)   Bos sandeleleri yenileme tusunun kendi kendisine yeniliyorsa komut calısıyor demektır.![image](https://github.com/user-attachments/assets/90a19be3-09fe-4356-980d-edf93db75315)
+5)   Bos sandeleleri yenileme tusunun kendi kendisine yeniliyorsa komut calısıyor demektır.
+---------------------------------------------------------------------------------------------------------
+6)   ![image](https://github.com/user-attachments/assets/90a19be3-09fe-4356-980d-edf93db75315)
 
      
  
