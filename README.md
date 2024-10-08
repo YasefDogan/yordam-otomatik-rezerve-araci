@@ -4,13 +4,26 @@ yordam sistemı, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 kurulum
 1)chromium tabanlı tarayıcınızda eklentilerim oldugu pencereyi açın ornegin (brave=  brave://extensions/ ) ( chrome=   chorme://extensions/ )
 
+
+
+---------------------------------------------------------------------------------------------------------
+
 2)geiştirici modunu acin
+
+
+
+---------------------------------------------------------------------------------------------------------
 ![{6D932C13-1B16-4555-BDE3-295B0BEC2B22}](https://github.com/user-attachments/assets/f9086caf-3584-4370-a5ab-6359fc1ae3df)
 
 3)paketlenmemiş oge yükleyin secenegini secin
+
+
+---------------------------------------------------------------------------------------------------------
 ![{59742221-555B-4CF7-851D-3012BF462171}](https://github.com/user-attachments/assets/922b2f1c-d3c2-439d-abb5-e7566fc0064c)
 
 4)zipten cıkarttığınız klasoru secin
+
+---------------------------------------------------------------------------------------------------------
 ![{A28B0A75-55CA-4BA7-9AB6-47FE1DAD9B94}](https://github.com/user-attachments/assets/26380729-c67a-4d70-a0c0-a23b059d48a7)
 
 
