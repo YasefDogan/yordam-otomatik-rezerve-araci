@@ -86,7 +86,8 @@ yordam rezarvasyon sisteminı kullanan websitelerinde yer arama ver yer seçme e
 
 -----------------------------------------------------------------------------------
 
-![{BB5679DB-6EAE-4F1A-8F5E-2AD5E9A34FBB}](https://github.com/user-attachments/assets/cd555b3a-d3a0-4ee9-ac71-4289cd7e2537)
+![image](https://github.com/user-attachments/assets/3a3ad9c1-3eb6-41d8-84a0-11819b20e863)
+
 
 
 ---------------------------------------------------------------------------------
