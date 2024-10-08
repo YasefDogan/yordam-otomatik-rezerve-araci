@@ -1,7 +1,7 @@
 # yordam-automator
 yordam sistemı, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 
-kurulum
+ [KURULUM NASIL YAPILIR]
 1)chromium tabanlı tarayıcınızda eklentilerim oldugu pencereyi açın ornegin (brave=  brave://extensions/ ) ( chrome=   chorme://extensions/ )
 
 
@@ -35,7 +35,7 @@ kurulum
 
 
 
- kullanımı
+ [EKLENTI NASIL KULLANILIR]
 
 1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/ )
 
