@@ -40,16 +40,19 @@ yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/ )
 
 2)   Web sitesine giris yapın
- ![Uploading {2DE183F8-7730-4AAE-A8C0-E9F4F5239D22}.png…]()
+
+![{012B90F0-EF8B-428A-9345-A7B6D35E273B}](https://github.com/user-attachments/assets/7f76d613-f709-4b66-b1f6-675bacff6912)
+
 
 3)   Rezervasyon ekranını acip, eklentiden otomatik yer alma komutunu calistirin.
-  ------------------------------------------------------------------------------------------------------
-        ![image](https://github.com/user-attachments/assets/1bb9ffc7-a06d-4324-914d-906ed8a7fa20)
+--------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/8fc3b076-e7fb-4752-875e-9145acea9353)
 
 
 5)   Bos sandeleleri yenileme tusunun kendi kendisine yeniliyorsa komut calısıyor demektır.
 ---------------------------------------------------------------------------------------------------------
-6)   ![image](https://github.com/user-attachments/assets/90a19be3-09fe-4356-980d-edf93db75315)
+   ![image](https://github.com/user-attachments/assets/90a19be3-09fe-4356-980d-edf93db75315)
 
      
  
