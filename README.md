@@ -1,5 +1,5 @@
 # yordam-OTOMASYON-ARACI-yasefdogan
-yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
+yordam rezarvasyon sisteminı kullanan websitelerinde yer arama ver yer seçme eylemini otomatikleştirmeye yarayan chrome eklentisi, suanlık manifest version 2 kullaniyor 
 
  # KURULUM NASIL YAPILIR
 
