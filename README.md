@@ -1,7 +1,7 @@
 # yordam-OTOMASYON-ARACI-yasefdogan
 yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 
- #KURULUM NASIL YAPILIR
+ # KURULUM NASIL YAPILIR
 
  ---------------------------------------------------------------------------------------------------------
 1)chromium tabanlı tarayıcınızda eklentilerim oldugu pencereyi açın ornegin (brave=  brave://extensions/ ) ( chrome=   chorme://extensions/ )
@@ -37,7 +37,7 @@ yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 
 
 
- #EKLENTI NASIL KULLANILIR
+ # EKLENTI NASIL KULLANILIR
 -------------------------------------------------------------------------------------
 1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/ )
 
