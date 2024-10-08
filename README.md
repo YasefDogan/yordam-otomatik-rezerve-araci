@@ -39,26 +39,57 @@ yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 
  # EKLENTI NASIL KULLANILIR
 -------------------------------------------------------------------------------------
-1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/ )
+   1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/yordam  ,  https://kutuphane.uskudar.bel.tr/yordam/  )
 
 ----------------------------------------------------------------------------------------
 
-2)   Web sitesine giris yapın
+   2)   Web sitesine giris yapın
 
   ---------------------------------------------------------------------------------------
 
 ![{012B90F0-EF8B-428A-9345-A7B6D35E273B}](https://github.com/user-attachments/assets/7f76d613-f709-4b66-b1f6-675bacff6912)
 
+--------------------------------------------------------------------------------
 
-3)   Rezervasyon ekranını acip, eklentiden otomatik yer alma komutunu calistirin.
+   3)   Rezervasyon ekranını acip, eklentiden otomatik yer alma komutunu calistirin.
 --------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/8fc3b076-e7fb-4752-875e-9145acea9353)
 
 
-5)   Bos sandeleleri yenileme tusunun kendi kendisine yeniliyorsa komut calısıyor demektır.
+
+---------------------------------------------------------------------------------------------
+
+   4)   Bos sandeleleri yenileme tusunun kendi kendisine yeniliyorsa komut calısıyor demektır.
 ---------------------------------------------------------------------------------------------------------
+
    ![image](https://github.com/user-attachments/assets/90a19be3-09fe-4356-980d-edf93db75315)
 
-     
+---------------------------------------------------------------------------------------------
+   5)  işlemi durdurmak icin durdur butonunu kullanabilirsiniz
+------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/b272b9a9-0dd1-462e-a8bb-27b48c4478c4)
+
+------------------------------------------------------------------------------
+   6) social tusu ile sosyal medya adreslerimi ziyaret edebilirsiniz
+--------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/023113d5-5de3-4694-9c48-f2a0cb23bf18)
+
+
+-----------------------------------------------------------------------
+
+
+   7)sag alttaki yuvarlak butondan menunun rengini değiştirebilirsiniz(Şuanda seçtiginiz renk kaydolmuyor dolayisiyla pek de bir işlevi yok)
+
+
+-----------------------------------------------------------------------------------
+
+![{BB5679DB-6EAE-4F1A-8F5E-2AD5E9A34FBB}](https://github.com/user-attachments/assets/cd555b3a-d3a0-4ee9-ac71-4289cd7e2537)
+
+
+---------------------------------------------------------------------------------
+
+
  
