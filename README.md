@@ -41,6 +41,8 @@ yordam sistemİ, otomatik rezervasyon kontrolu sağlayan chrome eklentisi
 -------------------------------------------------------------------------------------
 1)  İlgili yordan rezervasyon sistemini kullanan web sitesini acın, orneğin( https://kutuphane.yildirim.bel.tr/ )
 
+----------------------------------------------------------------------------------------
+
 2)   Web sitesine giris yapın
 
   ---------------------------------------------------------------------------------------
