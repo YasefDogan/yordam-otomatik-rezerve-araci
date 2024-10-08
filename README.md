@@ -30,7 +30,7 @@ yordam rezarvasyon sisteminı kullanan websitelerinde yer arama ver yer seçme e
 
 
 
-
+---------------------------------------------------------------------------------------------------------
 
 
 
